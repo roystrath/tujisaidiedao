@@ -1,6 +1,6 @@
 # TUJISAIDIE_DAO
 
-TUJISAIDIE is Kenya's first non-profit DAO for social good that pools funds from donors and votes on vetted GBV Survivor self-help group project proposals in need of funding based on a predefined voting model. Support for the groups range from Business, Financial and Skill Mentorship coupled with project management for the successfully funded projects.
+TUJISAIDIE is Kenya's first non-profit DAO that pools funds from donors and votes on vetted GBV Survivor self-help group project proposals in need of funding based on a predefined voting model. Support for the groups range from Business, Financial and Skill Mentorship coupled with project management for the successfully funded projects.
 
 Who We Are:
 https://tujisaidie-dao.netlify.app/
